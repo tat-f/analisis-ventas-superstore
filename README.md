@@ -4,7 +4,7 @@ Análisis exploratorio de 9.994 líneas de venta de una tienda minorista (Supers
 
 > **Nota:** es un proyecto personal de práctica con datos públicos. Simula el tipo de análisis que se hace en un puesto de Compras de retail; no se trata de datos reales de ninguna empresa.
 
-**App interactiva:** [COMPLETAR con el link de Streamlit Cloud cuando lo tengas]
+**App interactiva:** https://ydm72hmjhnkkeub4opogfc.streamlit.app/ 
 
 ## Preguntas que responde el análisis
 
